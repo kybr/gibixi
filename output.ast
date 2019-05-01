@@ -1,0 +1,76 @@
+[
+  "empty line",
+  "empty line",
+  {
+    "percussive": true,
+    "agent": "r0kn",
+    "pattern": "x o x . ",
+    "modifier": [
+      {
+        "level": [
+          1,
+          9,
+          4,
+          9
+        ]
+      },
+      {
+        "duration": [
+          1,
+          8,
+          8,
+          4
+        ]
+      },
+      {
+        "pan": [
+          1,
+          2,
+          3,
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "empty line",
+  {
+    "melodic": true,
+    "agent": "foo",
+    "instrument": "bass",
+    "pattern": " 1 2 3 4 5",
+    "modifier": [
+      {
+        "duration": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "empty line",
+  {
+    "concrète": true,
+    "agent": "_nute",
+    "soundFile": "_808",
+    "pattern": " 1 2 3 4 5",
+    "modifier": [
+      {
+        "level": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "pan": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  "empty line"
+]

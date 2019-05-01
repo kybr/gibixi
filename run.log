@@ -1,0 +1,9 @@
+r0kn = Drums('x o x . ');
+foo = FM('bass').note.seq([1,2,3,4,5]);
+_nute = Seq({
+  note: [1,2,3,4,5],
+  amp:  [1,2,3],
+  pan:  [1,2,3],
+  target: _808,
+  durations: 1/4,
+});

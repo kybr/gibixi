@@ -1,0 +1,5 @@
+#!/bin/sh
+
+fswatch main.js grammar.pegjs input.ixi | xargs -I _ make
+
+# install `fswatch` with brew: `brew install fswatch`
